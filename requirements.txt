@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-huggingface
+huggingface-hub
+langchain-google-genai
+langchain-groq
+python-dotenv
+ipykernel
+groq
