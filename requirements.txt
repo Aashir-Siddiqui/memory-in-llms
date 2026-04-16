@@ -9,3 +9,4 @@ langchain-groq
 python-dotenv
 ipykernel
 groq
+sentence-transformers
